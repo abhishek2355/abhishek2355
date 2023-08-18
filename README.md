@@ -1,12 +1,35 @@
 <div align="center">
-  <img height="300" width="900" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+  <img height="500" width="900" src="https://blog.iprodam.by/wp-content/uploads/2021/02/giphy4.gif"/>
 </div>
 
-<h2 align="center">Hi 👋! I'm Abhishek Santosh Raut</h2>
+<h2 align="center">Hi 👋! I'm Abhishek Santosh Raut (@abhishek2355)</h2>
 
-<h6 align="left">A student of Bachelor of Technology specializing in Information Technology (IT) engineering graduating in 2024. Learned new tools and technologies in the areas such as 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐜𝐞,𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.</h6>
+# Introduction:
+<h5 align="left">I'm a dedicated and enthusiastic Information Technology (IT) engineering student with a relentless curiosity for exploring the dynamic world of technology. With a strong foundation in theoretical knowledge and practical applications, I am driven to contribute meaningfully to the ever-evolving field of IT. I am pursuing a Bachelor's in Information Technology Engineering from Dr. Babasaheb Ambedkar Technological University Lonere Raigad. Through my coursework, I have gained expertise in various subjects, including programming languages, data structures, algorithms, databases, networking, and software development methodologies.</h5>
 
-###
+# Skills:
+
+**𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:** Python, c, c++, PHP, Dart, etc.
+
+**𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:** </br>
+Front End: HTML, CSS, Bootstrap, JavaScript
+Back end: Flask, Django, Python, PHP, SQL
+Servers: Mysql, PostgreSQL.
+
+**Flutter 𝐚𝐩𝐩 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:** Dart, Flutter, etc
+
+Also, I have knowledge of object-oriented programming, LaTex, MS Office, git & Github, Figma, Jira, etc.
+
+# Certificates:
+Flutter Essential Training: Build for Multiple Platforms
+Python (Keggle)
+Coding Ninjas Certificate of basic python
+TCS MasterCra? TM DataPlus
+Responsive Web Design (freeCodeCamp)
+
+
+
+
 
 <br clear="both">
 

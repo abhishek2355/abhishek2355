@@ -9,14 +9,14 @@
 
 # Skills:
 
-**𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:** Python, c, c++, PHP, Dart, etc.
+**Programming Languages:** Python, c, c++, PHP, Dart, etc.
 
-**𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:** </br>
+**Full-stack development:** </br>
 Front End: HTML, CSS, Bootstrap, JavaScript
 Back end: Flask, Django, Python, PHP, SQL
 Servers: Mysql, PostgreSQL.
 
-**Flutter 𝐚𝐩𝐩 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:** Dart, Flutter, etc
+**Flutter app development:** Dart, Flutter, etc
 
 Also, I have knowledge of object-oriented programming, LaTex, MS Office, git & Github, Figma, Jira, etc.
 

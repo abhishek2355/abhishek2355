@@ -93,10 +93,3 @@ Responsive Web Design (freeCodeCamp)
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://repository-images.githubusercontent.com/160321948/a2dd9300-61d1-11e9-931a-bcbb9eb8d24d" alt="Snake animation" />
-
-###

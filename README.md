@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" width="900" src="https://blog.iprodam.by/wp-content/uploads/2021/02/giphy4.gif"/>
+  <img width='1500' src="https://blog.iprodam.by/wp-content/uploads/2021/02/giphy4.gif"/>
 </div>
 
 <h2 align="center">Hi 👋! I'm Abhishek Santosh Raut (@abhishek2355)</h2>
@@ -39,13 +39,6 @@ Responsive Web Design (freeCodeCamp)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek2355&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -104,6 +97,6 @@ Responsive Web Design (freeCodeCamp)
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abhishek2355/abhishek2355/output/snake.svg" alt="Snake animation" />
+<img src="https://repository-images.githubusercontent.com/160321948/a2dd9300-61d1-11e9-931a-bcbb9eb8d24d" alt="Snake animation" />
 
 ###

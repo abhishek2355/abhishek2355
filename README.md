@@ -2,7 +2,7 @@
   <img width='1500' src="https://blog.iprodam.by/wp-content/uploads/2021/02/giphy4.gif"/>
 </div>
 
-<h2 align="center">Hi 👋! I'm Abhishek Santosh Raut (@abhishek2355)</h2>
+<h2 align="center">Hii👋! I'm Abhishek Santosh Raut (@abhishek2355)</h2>
 
 # Introduction:
 <h5 align="left">I'm a dedicated and enthusiastic Information Technology (IT) engineering student with a relentless curiosity for exploring the dynamic world of technology. With a strong foundation in theoretical knowledge and practical applications, I am driven to contribute meaningfully to the ever-evolving field of IT. I am pursuing a Bachelor's in Information Technology Engineering from Dr. Babasaheb Ambedkar Technological University Lonere Raigad. Through my coursework, I have gained expertise in various subjects, including programming languages, data structures, algorithms, databases, networking, and software development methodologies.</h5>

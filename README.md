@@ -21,11 +21,11 @@ Servers: Mysql, PostgreSQL.
 Also, I have knowledge of object-oriented programming, LaTex, MS Office, git & Github, Figma, Jira, etc.
 
 # Certificates:
-Flutter Essential Training: Build for Multiple Platforms
-Python (Keggle)
-Coding Ninjas Certificate of basic python
-TCS MasterCra? TM DataPlus
-Responsive Web Design (freeCodeCamp)
+Flutter Essential Training: Build for Multiple Platforms <br>
+Python (Keggle)  <br>
+Coding Ninjas Certificate of Basic Python  <br>
+TCS MasterCra? TM DataPlus  <br>
+Responsive Web Design (freeCodeCamp)  <br>
 
 
 

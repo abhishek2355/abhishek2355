@@ -1,95 +1,154 @@
-<div align="center">
-  <img width='1500' src="https://blog.iprodam.by/wp-content/uploads/2021/02/giphy4.gif"/>
-</div> 
-
-<h2 align="center">Hii👋! I'm Abhishek Santosh Raut (@abhishek2355)</h2>
-
-# Introduction:
-I'm a dedicated and enthusiastic Information Technology (IT) engineering student with a relentless curiosity for exploring the dynamic world of technology. With a strong foundation in theoretical knowledge and practical applications, I am driven to contribute meaningfully to the ever-evolving field of IT. I am pursuing a Bachelor's in Information Technology Engineering from Dr. Babasaheb Ambedkar Technological University Lonere Raigad. Through my coursework, I have gained expertise in various subjects, including programming languages, data structures, algorithms, databases, networking, and software development methodologies.
-
-# Skills:
-
-**Programming Languages:** Python, c, c++, PHP, Dart, etc. <br>
-**Full-stack development:** </br>
-Front End: HTML, CSS, Bootstrap, JavaScript
-Back end: Flask, Django, Python, PHP, SQL
-Servers: Mysql, PostgreSQL. <br>
-**Flutter app development:** Dart, Flutter, etc <br>
-Also, I have knowledge of object-oriented programming, LaTex, MS Office, git & Github, Figma, Jira, etc.
-
-# Certificates:
-Flutter Essential Training: Build for Multiple Platforms <br>
-Python (Keggle)  <br>
-Coding Ninjas Certificate of Basic Python  <br>
-TCS MasterCra? TM DataPlus  <br>
-Responsive Web Design (freeCodeCamp)  <br>
+![logo](https://github.com/abhishek2355/abhishek2355/assets/90473454/3f0a342a-f482-4de0-ae80-f21d2bd38dac)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
+<h1 align="center">Hi 👋, I'm Abhishek Raut</h1>
+<h3 align="center">A passionate Programmer from India</h3>
+<br>
+<br>
+<p> I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time, and also I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
 
-
-# Github Stats
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek2355&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhishek2355&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek2355&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60"/>
 </div>
 <br>
-
-# Tools Used
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60"/>
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60"/>
 </div>
 
-###
 
-# How to reach me
-<br clear="both">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCOvw5l_P2v-oHMVXJFHlXcA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+- 🔭 I’m presently pursuing a B. Tech. in **Information Technology engineering**.
+
+- 💬 Ask me about **Python, C++, Flutter and Web Development**
+
+- :envelope: How to reach me **abhishekraut2355@gmail.com**
+
+- 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/rautabhishek/)
+
+- ⚡ Fun fact **I think I'm funny**  :grinning:
+<br>
+
+
+
+<p align="center"> 
+
+# Skills:
+**Programming Languages:** Python, C, C++, Dart, Java, Javascript, etc. <br>
+**Full-stack development:**
+  - **Front End:** HTML, CSS, Bootstrap, JavaScript
+  - **Back end:** Flask, Python, PHP, SQL
+  - **Databases:** Mysql, Firebase, MongoDB, etc <br>
+  
+**Flutter app development:**
+  - **Front End:** Dart
+  - **State Managment:** Getx, Provider, etc
+  - **Back end:** Flask, Python, Dart, etc
+  - **Databases:** Mysql, Firebase, MongoDB, etc
+<br>
+
+# Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/rautabhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027682627597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abhishekraut2710/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCOvw5l_P2v-oHMVXJFHlXcA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+# Languages and Tools:
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,flask,fastapi"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="abhishekraut2355@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js" />
   </a>
-  <a href="https://www.linkedin.com/in/rautabhishek/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
   </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+  </a>
+</p>
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+# GitHub Stats:
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek2355\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhishek2355&theme=midnight-purple)](https://git.io/streak-stats)
+
 </div>
+<br>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+# Trophy:
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek2355&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek2355&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br>
+ <br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+# Activity:
+![abhishek2355's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek2355&custom_title=Abhishek's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<!-- # Achievements:
+[![An image of @abhishek2355's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek2355)](https://holopin.io/@abhishek2355)
+<br>
+<br>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="https://www.linkedin.com/in/rautabhishek/">Abhishek Raut</a></p>
+
 

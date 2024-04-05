@@ -4,11 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Raut</h1>
 <h3 align="center">A passionate Programmer from India</h3>
+<p align="center"> I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time, and also I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
 <br>
 <br>
-<br>
-<p> I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time, and also I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
-
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60"/>
@@ -26,7 +24,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-- 🔭 I’m presently pursuing a B. Tech. in **Information Technology engineering**.
+- 🔭 I’m presently pursuing a B. Tech. in **Information Technology Engineering**.
 
 - 💬 Ask me about **Python, C++, Flutter and Web Development**
 
@@ -39,10 +37,11 @@
 
 
 
-<p align="center"> 
+<p align="center">
 
-# Skills:
-**Programming Languages:** Python, C, C++, Dart, Java, Javascript, etc. <br>
+# Skills:  
+**Programming Languages:** Python, C, C++, Dart, Java, Javascript, etc. 
+
 **Full-stack development:**
   - **Front End:** HTML, CSS, Bootstrap, JavaScript
   - **Back end:** Flask, Python, PHP, SQL

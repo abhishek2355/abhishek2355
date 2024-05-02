@@ -34,7 +34,7 @@
 
 - :envelope: How to reach me **abhishekraut2355@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/rautabhishek/)
+- 📄 Know about my experiences [my experiences](https://abhishek-raut.web.app/)
 
 - ⚡ Fun fact **I think I'm funny**  :grinning:
 <br>
